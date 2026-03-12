@@ -1,13 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 
 import 'package:form_validator_x/form_validator_x.dart';
-import 'package:form_validator_x/rules/common_rules/is_email.dart';
-import 'package:form_validator_x/rules/common_rules/is_equals.dart';
-import 'package:form_validator_x/rules/common_rules/is_required.dart';
-import 'package:form_validator_x/rules/date_rules/is_date.dart';
-import 'package:form_validator_x/rules/date_rules/is_date_after.dart';
-import 'package:form_validator_x/rules/date_rules/is_date_before.dart';
-import 'package:form_validator_x/rules/date_rules/is_date_between.dart';
 
 
 void main() {
